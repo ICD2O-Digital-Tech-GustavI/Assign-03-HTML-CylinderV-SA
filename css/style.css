@@ -1,4 +1,41 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+/*STYLE CSS FILE FOR index.html*/ 
+/*Created by Gustav Ihlenfeld*/
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  padding: 30px;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffff;
+}
+
+h4 {
+  text-align: center;
+}
+
+p {
+  font-family : Arial, Helvetica, sans-serif
+}
+
+label { 
+  font-family : Arial, Helvetica, sans-serif
+}
+
+button {
+  background-color: black;
+  color : #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.mdl-snackbar--top {
+  top: 0;
+  bottom: auto;
+}
